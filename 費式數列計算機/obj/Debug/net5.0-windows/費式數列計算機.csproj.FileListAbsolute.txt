@@ -1,0 +1,17 @@
+C:\Users\Tibame_T14\source\repos\費式數列計算機\bin\Debug\net5.0-windows\費式數列計算機.exe
+C:\Users\Tibame_T14\source\repos\費式數列計算機\bin\Debug\net5.0-windows\費式數列計算機.deps.json
+C:\Users\Tibame_T14\source\repos\費式數列計算機\bin\Debug\net5.0-windows\費式數列計算機.runtimeconfig.json
+C:\Users\Tibame_T14\source\repos\費式數列計算機\bin\Debug\net5.0-windows\費式數列計算機.runtimeconfig.dev.json
+C:\Users\Tibame_T14\source\repos\費式數列計算機\bin\Debug\net5.0-windows\費式數列計算機.dll
+C:\Users\Tibame_T14\source\repos\費式數列計算機\bin\Debug\net5.0-windows\ref\費式數列計算機.dll
+C:\Users\Tibame_T14\source\repos\費式數列計算機\bin\Debug\net5.0-windows\費式數列計算機.pdb
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.Form1.resources
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.csproj.GenerateResource.cache
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.AssemblyInfoInputs.cache
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.AssemblyInfo.cs
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.csproj.CoreCompileInputs.cache
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.dll
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\ref\費式數列計算機.dll
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.pdb
+C:\Users\Tibame_T14\source\repos\費式數列計算機\obj\Debug\net5.0-windows\費式數列計算機.genruntimeconfig.cache
